@@ -1,11 +1,11 @@
 `A Junior Engineer`
 
 ## 🛠️
-- **Languages:** HTML, CSS, JavaScript, TypeScript, SQL
-- **Libraries & Frameworks:** LightingChart, Express, Socket.io, **learning Vue**
-- **Other:** Git, Linux, Docker, AWS, Digital Ocean, Redis, PostgreSQL
+- **AI:** learning Codex + Spec Driven Development
+- **Languages:** HTML, CSS, JavaScript, SQL, learning Go
+- **Libraries & Frameworks:** LightingChart, Socket.io, Express, learning Vue
+- **Other:** Git, Linux, Docker, AWS/Digital Ocean, Redis, PostgreSQL, Mirth Connect
 - **Certificates:** [AWS Solutions Architect Associate](https://www.credly.com/badges/f4d107ed-827d-4b00-93ad-9b95eb4ecb56/linked_in_profile), [AWS Cloud Practitioner](https://www.credly.com/badges/8d7d5c65-b278-4243-98ae-da259f8d929a/linked_in_profile)
-- **AI:** **learning Codex + SDD**
 
 ## 📚
 - **WIP - a SaaS medical web app**
