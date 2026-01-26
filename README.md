@@ -1,8 +1,8 @@
 `A Junior Engineer`
 
 ## 🛠️
-- **AI:** learning Codex + Spec Driven Development
-- **Languages:** HTML, CSS, JavaScript, SQL, learning Go
+- **AI:** practising Spec Driven Development
+- **Languages:** HTML, CSS, JavaScript
 - **Libraries & Frameworks:** LightingChart, Socket.io, Express, learning Vue
 - **Other:** Git, Linux, Docker, AWS/Digital Ocean, Redis, PostgreSQL, Mirth Connect
 - **Certificates:** [AWS Solutions Architect Associate](https://www.credly.com/badges/f4d107ed-827d-4b00-93ad-9b95eb4ecb56/linked_in_profile), [AWS Cloud Practitioner](https://www.credly.com/badges/8d7d5c65-b278-4243-98ae-da259f8d929a/linked_in_profile)
